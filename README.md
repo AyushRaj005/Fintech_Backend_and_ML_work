@@ -180,10 +180,3 @@ python api/app.py
 * Stock closing price
 * Predicted vs actual
 * Future trend line
-
-### **Financial Analysis Output**
-
-✔ Compounded Sales Growth
-✔ Stock Price CAGR
-✔ ROE Trend
-✔ Auto-generated Pros & Cons
